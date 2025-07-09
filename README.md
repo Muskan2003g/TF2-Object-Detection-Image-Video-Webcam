@@ -57,3 +57,11 @@ python detect_from_video.py --video videos/sample.mp4
 
 🎥 Detect from Webcam:
 python detect_from_webcam.py
+
+
+Sample Output
+Input Image	                                              Detection Output
+![detection_output0](https://github.com/user-attachments/assets/dcf84adf-2060-4a98-b015-50ac9d273d28)
+
+
+![Uploading detection_output0.png…]()
